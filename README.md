@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chniteesh71(Niteesh)
 - 👀 I’m interested in DevOps role.
-- 🌱 I’m currently learning tools realted to DevOps.
+- 🌱 I’m currently learning tools related to DevOps.
 - 📫 How to reach me .. chniteesh71@gmail.com
 
 <!---
